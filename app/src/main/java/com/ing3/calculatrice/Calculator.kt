@@ -1,5 +1,6 @@
 package com.ing3.calculatrice
 
+import net.objecthunter.exp4j.ExpressionBuilder
 
 
 object Calculator {
